@@ -1,0 +1,2 @@
+# sphalfa
+Git öğreniyorum
